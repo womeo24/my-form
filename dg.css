@@ -1,0 +1,57 @@
+this is external css comment tag 
+/* how to link external css files wiith the html file or docs */
+/* we are going to use the link tag */
+
+/* global selector */
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+    display: flex;
+    border: 2px solid rgb(116, 116, 236);
+    background: #d7d4ff;
+    border-radius:0px 20px 20px 0px;
+    /* border radius style for top right */
+    width: 30%;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+}
+
+.btn {
+    width: 100%;
+    background: blue;
+    border: none;
+    border-radius: 4px;
+}
+  
+  input {
+    padding: 6px;
+    /* border: 1px solid red;    */
+    outline-color: blue;
+
+  }
+
+ 
+
+/* .pen {
+  background-color: blue;
+  color: white;
+}
+
+p {
+  background-color: red;
+  columns: green;
+}
+
+
+
+
+.ola {
+    height: 680px;
+    width: 680px;
+
+} */
